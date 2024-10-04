@@ -1,0 +1,19 @@
+.onoff-pump {
+    /* padding: 10px;
+    margin: 5px; */
+    cursor: pointer;
+    /* border: 1px solid #ccc;
+    border-radius: 22px; */
+    border-radius: 10%;
+    border-color: #07c707;
+    box-shadow: 10px 10px rgb(7, 129, 170);
+  }
+  
+  .onoff-pump.selected {
+    /* background-color: #ff7575; */
+    background: linear-gradient(90deg, #07c707 0%, #07c707 100%);
+    border-radius: 10%;
+    border-color: #0c0fde;
+    box-shadow: 10px 10px lightblue;
+  }
+  
